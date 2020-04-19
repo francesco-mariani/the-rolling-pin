@@ -1,0 +1,5 @@
+{
+"root": "./docs",
+"plugins": ["expandable-chapters","youtube","hints","glossary-tooltip"],
+"title": "The Rolling Pin"
+}
